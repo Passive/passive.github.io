@@ -1,18 +1,18 @@
 theme: jekyll-theme-hacker
-name: 0xPat blog
-description: Red/purple teamer
+name: Passive blog
+description: Blog for keyboard monkeys :)
 avatar: ../images/logo.png
 footer-links:
   dribbble:
   email:
   facebook:
   flickr:
-  github: 0xPat
+  github: Passive
   instagram:
-  linkedin: patryk-czeczko
+  linkedin: 
   pinterest:
   rss: 
-  twitter: 0xPat
+  twitter: 
   stackoverflow: 
   youtube: 
   googleplus:
@@ -43,3 +43,4 @@ exclude:
   - README.md
   - CNAME
 
+# Thank you to 0xpat for template
